@@ -15,9 +15,11 @@ their birthdate.
 
 * Minor check (bot) - a program which will print out whether the user is a minor or not based on their age, and in accordance to that enable or disable their
 ability to see specific channels.
+
 ~ Do not use this as a definitive measure of whether a user is underage or not. ~
 
 * Under 13 check (bot) - a program which will either lock out, kick or soft ban users that are under 13 according to their age calculation.
+
 ~ Do not use this as a definitive measure of whether a user is under 13 or not. ~
 
 * Agecheck feature (bot) - a program which will allow users to check the age and birthdate of another person if they've previously used the bot to calculate it.
