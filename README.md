@@ -1,7 +1,10 @@
 # AgeCalc
 AgeCalc is a python program which can precisely calculate your age based on your birth year, month, and day input.
+
 It is incredibly simple, easy, and efortless to use.
+
 A short explanation is given for any errors you might encounter, as well as a suggestion on how to correct your input.
+
 It has also been modified to work inside a discord bot, but more features regarding that will be made to ensure a more user-friendly interaction with the bot.
 The bot edition will have many more minor features to make it more diverse and engaging. Some of those features include but are not limited to:
 
