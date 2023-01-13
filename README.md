@@ -8,7 +8,7 @@ A short explanation is given for any errors you might encounter, as well as a su
 It has also been modified to work inside a discord bot, but more features regarding that will be made to ensure a more user-friendly interaction with the bot.
 The bot edition will have many more minor features to make it more diverse and engaging. Some of those features include but are not limited to:
 
-* Help command (bot) - a command which will list all the available bot commands and briefly explain how to properly apply and use them.
+* Help command (bot) - a command which will list all the available bot commands and briefly explain how to properly apply and use them. ✓
 
 * Reverse age calculator system (bot) - a program which will enable the user to enter how old they are in years, months, and days and have the program reveal 
 their birthdate.
@@ -26,6 +26,6 @@ ability to see specific channels.
 
 * Zodiac sign - a program which will also reveal the users zodiac sign upon age calculation and give them a short description of it.
 
-* Date check - a program which will enable the user to check the current date.
+* Date check - a program which will enable the user to check the current date. ✓
 
-* Secret features (bot) - a program I will not reveal anything about because it's a secret. ;)
+* Secret features (bot) - a program I will not reveal anything about because it's a secret. ;) ✓
