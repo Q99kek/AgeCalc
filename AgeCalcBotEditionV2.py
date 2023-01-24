@@ -5,7 +5,7 @@ import asyncio
 
 current_time = datetime.now()
 
-token = 'MTA2MTI5NDgzMzE2NTE2MDQ1OQ.Gfa85-._-oOkg9SPBCOeSUBtfUMezc4NDIyNRrZQ8Bfu8'
+token = ''
 bot = commands.Bot(command_prefix='', intents=discord.Intents.all())
 bot.Prefix = '!'
 
